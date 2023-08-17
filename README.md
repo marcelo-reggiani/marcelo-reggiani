@@ -1,4 +1,4 @@
-## Github secundário, apenas exercicios, visite o principal :  github.com/marceloreggiani
+## Github secundário, visite o principal :  github.com/marceloreggiani
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+Reggiani;I+am+from+Belo+Horizonte+-+MG+-+BRAZIL;I'm+a+Back-End+developer!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <!--
